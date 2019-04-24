@@ -4,7 +4,12 @@ LDICT = 'abcdefghijklmnopqrstuvwxyz'
 HLDICT = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 DICTS = [CDICT, HCDICT, LDICT, HLDICT]
 
-def caesar(str0='', dicts=DICTS, step=1):
+
+#Function caesar(str0 : str = '' - input string,
+# dicts: list of strings = DICTS - list of all dictionaries,
+# step : int - encoding step)
+#Returns caesar code of given string with given step
+def caesar(str0:str='', dicts:list=DICTS, step:int=1): 
     str1=''
     for i in str0:
         k = False
