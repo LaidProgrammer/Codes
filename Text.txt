@@ -1,3 +1,8 @@
 I wanna break github
+<<<<<<< HEAD
 
 I'm a teacher
+=======
+I'm George
+I love myself, I want to live
+>>>>>>> Textfile update
