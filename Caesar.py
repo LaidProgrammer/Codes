@@ -5,9 +5,11 @@ HLDICT = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 DICTS = [CDICT, HCDICT, LDICT, HLDICT]
 
 
-#Function caesar(str0 : str = '' - input string,
+#Function caesar(
+# str0 : str = '' - input string,
 # dicts: list of strings = DICTS - list of all dictionaries,
-# step : int - encoding step)
+# step : int - encoding step
+#)
 #Returns caesar code of given string with given step
 def caesar(str0:str='', dicts:list=DICTS, step:int=1): 
     str1=''
