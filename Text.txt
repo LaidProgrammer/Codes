@@ -1,14 +1,2 @@
 I wanna break github
-<<<<<<< HEAD
-
-I'm a teacher
-<<<<<<< HEAD
-
-hello?
-I like programming, Chemistry aand biology. 
-I want to become a chem-bio-ingineer
-=======
-=======
-No? only not me!
->>>>>>> New text
->>>>>>> New text
+No? Not me!
